@@ -135,7 +135,7 @@ body {
     border: skyblue 3px dotted;
 }
 .footer {
-    background-image: url(/img/toothsky.jpg);
+    background-image: url(./toothsky.jpg);
     background-size: 100%;
     border-radius: 20px;
 }
